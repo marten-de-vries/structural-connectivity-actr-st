@@ -1,5 +1,7 @@
 # Structural Connectivity of Brain Areas Linked to the Cognitive Architecture ACT-R and Spontaneous Thought
 
+[![DOI](https://zenodo.org/badge/142974925.svg)](https://zenodo.org/badge/latestdoi/142974925)
+
 Marten de Vries
 
 > Abstract: Diffusion tensor imaging (DTI) makes it possible to generate a structural brain network from anatomical brain data. This study analyses such networks using network theoretic measures. The study has two goals. First, it focuses on brain areas that have been linked to modules of the cognitive architecture Adaptive Control of Thought - Rational (ACT-R), which has been used to model a wide variety of cognitive processes. Second, on brain areas linked to spontaneous thought (ST) networks, like the default network (DMN) and the frontoparietal control network (FPCN), which are used to explain phenomena like mind-wandering. These two groups of areas were compared to the remainder of the brain areas to see if their measure values differ. Significant differences were found between areas linked to ACT-R modules and the remainder of brain areas for five measures, suggesting (among others) that these areas play an integrative role in the brain. No significant results were found when comparing areas linked to ST networks and the remainder of brain areas.
