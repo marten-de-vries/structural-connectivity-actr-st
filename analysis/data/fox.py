@@ -1,0 +1,31 @@
+source_rois = {
+    "Dorsal anterior cingulate cortex": (-5, 27, 39),
+    "R lateral prefrontal cortex": (45, 43, -8),
+    "Rostromedial prefrontal cortex": (3, 61, 13),
+    "Medial prefrontal cortex; anterior cingulate cortex": (4, 42, 3),
+    "L ventrolateral prefrontal cortex": (-42, 29, -12),
+    "Precuneus; posterior cingulate cortex": (-8, -56, 39),
+    "L inferior parietal lobule; angular gyrus": (-46, -72, 25),
+    "R inferior parietal lobule; supramarginal gyrus": (56, -51, 33),
+    "R secondary somatosensory cortex": (24, -39, 56),
+    "L parahippocampus": (-27, -37, -18),
+    "L mid insula/superior temporal gyrus": (-50, -1, -5),
+    "L temporopolar cortex": (-35, 10, -26),
+    "L lingual gyrus": (-15, -66, 5),
+}
+
+source_rois_network = [
+    'FPCN',
+    'FPCN',
+    'DN',
+    'DN',
+    'DN',
+    'DN',
+    'DN',
+    'DN',
+    'other',
+    'DN',
+    'other',
+    'DN',
+    'other',
+]
